@@ -29,6 +29,18 @@ My 2020 hobby goals look something like the following (assuming I'm not tempted 
      <td style="text-align: center !important;"> - </td>
       <td style="text-align: center !important;"> - </td>
   </tr>
+    <tr>
+    <td>3 Nurgle Plague Drones</td>
+    <td style="text-align: center !important;">  <img  src="/img/done.png"> </td>
+     <td style="text-align: center !important;"> - </td>
+      <td style="text-align: center !important;"> - </td>
+  </tr>
+    <tr>
+    <td>1 Nurgle Herald</td>
+    <td style="text-align: center !important;">  <img  src="/img/done.png"> </td>
+     <td style="text-align: center !important;"> - </td>
+      <td style="text-align: center !important;"> - </td>
+  </tr>
   <tr>
     <td>Shar'Tor the Excutioner - Legion of Azgorh</td>
     <td style="text-align: center !important;"> - </td>
@@ -62,6 +74,18 @@ My 2020 hobby goals look something like the following (assuming I'm not tempted 
   </tr>
   <tr>
     <td>1 Legion of Azgorh Castellan</td>
+    <td style="text-align: center !important;"> - </td>
+     <td style="text-align: center !important;"> - </td>
+      <td style="text-align: center !important;"> - </td>
+  </tr>
+    <tr>
+    <td>1 Legion of Azgorh unit musician</td>
+    <td style="text-align: center !important;"> - </td>
+     <td style="text-align: center !important;"> - </td>
+      <td style="text-align: center !important;"> - </td>
+  </tr>
+     <tr>
+    <td>1 Chimera</td>
     <td style="text-align: center !important;"> - </td>
      <td style="text-align: center !important;"> - </td>
       <td style="text-align: center !important;"> - </td>
