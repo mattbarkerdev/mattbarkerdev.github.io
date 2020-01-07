@@ -6,6 +6,14 @@ use-site-title: true
 ---
 
 <div class="posts-list">
+  <p class="post-meta">
+  Welcome to my attempt at a blog page! Whilst I'll do my best to endeavor to add new posts where appropriate, particularly to do with Warhammer based goings on, I figured for the rest of my 2020 life goals, a simple counter would suffice! I might do something clever with the distance later.
+  </p>
+  <h3 class="post-title">Miles Ran: 4.08</h3>
+  <h3 class="post-title">Weight Lost: 2lb</h3>
+
+  <hr/>
+
   {% for post in paginator.posts %}
   <article class="post-preview">
     <a href="{{ post.url | relative_url }}">
