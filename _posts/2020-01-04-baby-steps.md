@@ -98,9 +98,9 @@ My 2020 hobby goals look something like the following (assuming I'm not tempted 
   </tr>
   <tr>
     <td>1 Khorne skullgrinder</td>
-    <td style="text-align: center !important;"> - </td>
-     <td style="text-align: center !important;"> - </td>
-      <td style="text-align: center !important;"> - </td>
+    <td style="text-align: center !important;"> <img  src="/img/done.png">  </td>
+     <td style="text-align: center !important;"> <img  src="/img/done.png">  </td>
+      <td style="text-align: center !important;"> 19th Feb 2020 </td>
   </tr>
   <tr>
     <td>1 Tzaangor shaman</td>
@@ -140,6 +140,24 @@ My 2020 hobby goals look something like the following (assuming I'm not tempted 
   </tr>
  <tr>
     <td>1 Gotrek Gurnisson</td>
+    <td style="text-align: center !important;"> - </td>
+     <td style="text-align: center !important;"> - </td>
+      <td style="text-align: center !important;"> - </td>
+  </tr>
+  <tr>
+    <td>2 Ironsoul's Condemnors</td>
+    <td style="text-align: center !important;"> <img  src="/img/done.png">  </td>
+     <td style="text-align: center !important;"> - </td>
+      <td style="text-align: center !important;"> - </td>
+  </tr>
+   <tr>
+    <td>Stormsire's Cursebreakers</td>
+    <td style="text-align: center !important;"> <img  src="/img/done.png">  </td>
+     <td style="text-align: center !important;"> - </td>
+      <td style="text-align: center !important;"> - </td>
+  </tr>
+    <tr>
+    <td>Thorns of the Briar Queen</td>
     <td style="text-align: center !important;"> - </td>
      <td style="text-align: center !important;"> - </td>
       <td style="text-align: center !important;"> - </td>
