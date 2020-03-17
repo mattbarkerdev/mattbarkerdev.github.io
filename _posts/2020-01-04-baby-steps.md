@@ -104,9 +104,9 @@ My 2020 hobby goals look something like the following (assuming I'm not tempted 
   </tr>
   <tr>
     <td>1 Tzaangor shaman</td>
-    <td style="text-align: center !important;"> - </td>
-     <td style="text-align: center !important;"> - </td>
-      <td style="text-align: center !important;"> - </td>
+    <td style="text-align: center !important;"> <img  src="/img/done.png">  </td>
+     <td style="text-align: center !important;"> <img  src="/img/done.png">  </td>
+      <td style="text-align: center !important;"> 10th March 2020 </td>
   </tr>
   <tr>
     <td>10 Daughters of Khaine Witch Aelves</td>
