@@ -2,7 +2,7 @@
 layout: post
 title: Tzaangor Shaman
 bigimg: /img/tzeentch_head.jpg
-image: /img/disk_image.png
+image: /img/disk_image.PNG
 ---
 So haven't updated anything for a while - what with all the virus outbreaks, general chaos and bits & pieces stuff has all gone a little manic! 
 
